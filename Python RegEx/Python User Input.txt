@@ -1,0 +1,6 @@
+username = raw_input("Enter username:")
+print("Username is: " + username)
+
+
+C:\Users\My Name>python demo_user_input2.py
+Enter username:
